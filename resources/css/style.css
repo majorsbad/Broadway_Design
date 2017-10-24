@@ -34,5 +34,9 @@ p{
   color: white;
 }
 #bottom{
+  font-size: 11px;
   text-align: left;
+}
+#bottom_links{
+  font-size: 20px
 }
