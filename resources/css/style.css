@@ -15,3 +15,24 @@ h5{
   ont-weight: bold;
   color: white;
 }
+h4{
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+.links{
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.design{
+  background-image: url("images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#bottom{
+  text-align: left;
+}
